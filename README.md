@@ -3,7 +3,7 @@ Each folder contains a specific task or concept for hands-on practice.
 
 ## 🛠️ Requirements
 
--MySql
+- MySql
 - Java 11+
 - Maven
 - Spring Boot 2.6+
