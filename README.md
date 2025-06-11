@@ -1,7 +1,7 @@
 
 Each folder contains a specific task or concept for hands-on practice.
 
-## 🛠️ Requirements
+##  Requirements
 
 - MySql
 - Java 11+
